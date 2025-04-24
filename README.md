@@ -1,7 +1,7 @@
 #Training
 
-**Your Name:
-Pavan R V**
+**Your Name:**
+**Pavan R V**
 
 *Register Number:*  
 713322AD076
