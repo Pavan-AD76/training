@@ -1,0 +1,10 @@
+Topic: Types of Variables
+Types of Variables:
+•	Quantitative 
+•	Qualitative / Categorical
+Example:
+Classifying the variables:
+•	Number of pets                           -  Quantitative
+•	Blood type                               - Qualitative
+•	Weight in kg                             -  Quantitative
+•	Satisfaction level (low, medium, high)   -  Qualitative

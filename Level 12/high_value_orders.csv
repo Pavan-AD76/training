@@ -1,0 +1,2 @@
+order_id,customer_name,price,order_date,quantity,total_price
+101,Alice,1000.0,2023-01-01,2,2000.0

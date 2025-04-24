@@ -1,0 +1,3 @@
+RoomID,RoomNumber,RoomType,Availability
+R001,101,ICU,No
+R002,202,General,Yes

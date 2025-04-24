@@ -1,0 +1,30 @@
+Topic: Types of Statistics
+
+Types of Statistics:
+    1. Descriptive - It consists of organizing and sumarizing data
+    2. Inferential - It is a technique where we use the data that we have measured, to form conclusions.
+
+Difference between inferential and descriptive statistics:
+    
+    Descriptive:
+        i) Describe the features of populations and/or samples
+        ii) Organize and present data in a purely factual way
+        iii) Present final results visually, using tables, charts, or graphs
+        iv) Draw conclusions based on known data
+        v) Use measures like central tendency, distribution, and variance
+
+        Example:
+            A pie chart displaying the different hair colors in the population, clearly showing that brown hair is the most common.
+
+    Inferential statistics:
+        i) Use samples to make generalizations about larger populations
+        ii) Help us to make estimates and predict future outcomes
+        iii) Present final results in the form of probabilities
+        iv) Draw conclusions that go beyond the available data
+        v) Use techniques like hypothesis testing, confidence intervals, and regression and correlation analysis
+
+        Example:
+            This would be analyzing the hair color of one college class of students and using that result to predict the most popular hair color in the entire college.
+
+
+            

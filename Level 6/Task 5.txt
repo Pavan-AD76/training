@@ -1,0 +1,10 @@
+Topic: Sampling Techniques
+
+Scenario: Survey employee satisfaction in a company with departments of varying sizes.
+
+Selected Technique: Stratified Sampling  
+
+Justification: Stratified sampling is the best choice because the company has departments of varying sizes.
+               By dividing employees into strata (departments) and then selecting a proportional sample from 
+               each, we ensure that all departments are adequately represented. This method prevents overrepresentation 
+               of larger departments and underrepresentation of smaller ones, leading to more accurate and reliable survey results.

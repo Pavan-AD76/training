@@ -1,0 +1,10 @@
+Topic: Population vs. Sample
+
+Scenario: A researcher studies the average income of families in a city by surveying 100 households.
+
+Solution:
+	Population: All families in the city.
+
+	Sample: The 100 surveyed households.
+
+In this case, the researcher is interested in understanding the income of all families in the city (the population) but collects data from only a subset (the sample) due to practical constraints.

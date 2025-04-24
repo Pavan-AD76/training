@@ -1,0 +1,3 @@
+PatientID,FirstName,LastName,DOB,Gender,Phone,Email,Address
+P001,Alice,Johnson,1990-03-15,F,9876543210,alice@mail.com,123 Main St
+P002,Bob,Smith,1985-07-22,M,8765432109,bob@mail.com,456 Maple Ave

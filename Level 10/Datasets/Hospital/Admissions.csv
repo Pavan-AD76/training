@@ -1,0 +1,2 @@
+AdmissionID,PatientID,RoomID,AdmissionDate,DischargeDate,Diagnosis
+AD001,P001,R001,2024-03-25,2024-03-30,Heart Issue
